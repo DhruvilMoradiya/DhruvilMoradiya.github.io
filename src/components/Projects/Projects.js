@@ -48,7 +48,7 @@ function Projects() {
               hasGh={true}
               hasDemo={true}
               title="Std09"
-              description="This website is usefull for students who are in Standard 09 rigth now. This website contains best lectures of Maths and Science."
+              description="This website is usefull for students who are in Standard 09 rigth now. This website contains best lectures of Maths and Science. Built with HTML & CSS"
               ghLink="https://github.com/DhruvilMoradiya/Std9"
               demoLink="https://std9.netlify.app/"
             />
