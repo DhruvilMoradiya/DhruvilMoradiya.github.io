@@ -9,8 +9,9 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="blue">Dhruvil Moradiya </span>
-            from <span className="blue"> Morbi, Gujrat, India.</span>
-            <br />I am a fresher pursuing BE in Electronics & Communication at LDCE-Ahmedabad.             <br />
+            from <span className="blue"> Morbi, Gujrat.</span>
+            <br />I am a fresher pursuing BE in Electronics & Communication at
+            LDCE-Ahmedabad. <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
